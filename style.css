@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'UTDR';
+  src: url('main.ttf') format('TrueType');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: 'MyCustomFont', Arial, sans-serif;
+}
