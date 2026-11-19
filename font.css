@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'UTDR';
-    src: url('utdr.ttf') format('truetype');
-    font-weight: normal;
-}
-
-.pixel-font {
-    font-family: 'UTDR', monospace;
-}
